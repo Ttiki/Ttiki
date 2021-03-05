@@ -14,7 +14,7 @@ I'm always learning, I never want to stop, it's too much important in science, a
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything you want about my project or myself
-- 📫 How to reach me: [link anavailable at the moment]
+- 📫 How to reach me: [*link unavailable at the moment*]
 - 😄 Pronouns: Ttiki, El nano, *ptitclemdu64*
 - ⚡ Fun fact: I've got a composit / titanium spine
 
