@@ -47,6 +47,7 @@ I'm always learning, I never want to stop, it's too much important in science, a
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Welcome, to this blog 2.0!](https://ttiki-blog.blogspot.com/2021/10/welcome-hello-everyone.html)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more blog posts...](https://ttiki-blog.blogspot.com/)
 
