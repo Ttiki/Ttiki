@@ -55,21 +55,26 @@ I'm always learning, I never want to stop, it's too much important in science, a
 
 <details>
   <summary>:zap: Fun info</summary>
-* 🔭 I’m currently working on Too many project to be listed here
-  🌱 I’m currently learning Application development for Android
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
-* 💬 Ask me about anything you want about my project or myself
-* 📫 How to reach me: [Follow this link! You'll find my social medias board.](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
-* 😄 Pronouns: Ttiki, El nano, *ptitclemdu64*
-* ⚡ Fun fact: I've got a composit / titanium spine and am a lord of SeaLand
+  <ul>
+    <li>🔭 I’m currently working on Too many project to be listed here
+    <li>🌱 I’m currently learning Application development for Android
+  <!-- 👯 I’m looking to collaborate on ...
+  - 🤔 I’m looking for help with ...-->
+    <*>💬 Ask me about anything you want about my project or myself
+    <*>📫 How to reach me: [Follow this link! You'll find my social medias board.](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
+    <li>😄 Pronouns: Ttiki, El nano, *ptitclemdu64*
+    <li>⚡ Fun fact: I've got a composit / titanium spine and am a lord of SeaLand
+  </ul>
 </details>
 
 <details>
     <summary>:zap: Github's stats</summary>
-[![Les Stats GitHub de Ttiki](https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true)](https://github.com/Ttiki)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
+<img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
 </details>
+
+<br/>
+<br/>
 
 <!-- ### My Steam Profile *(from [SteamDB](https://steamdb.info/calculator/76561198057737254/?cc=eu))*
 
