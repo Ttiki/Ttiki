@@ -1,9 +1,9 @@
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social)(https://github.com/ttiki)]
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/kutsatuta?style=social)(https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/mixed-fr_gb.gif)(https://twitter.com/intent/user?screen_name=Kutsatuta)]
-[![Follow me on Twitch()](https://img.shields.io/twitch/status/Ttiki?style=social)(https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(https://www.twitch.tv/ttiki)]
-[![Subscribe to my YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social)(https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1)]
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kutsatuta?style=social)![French / English flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/mixed-fr_gb.gif)(https://twitter.com/intent/user?screen_name=Kutsatuta)]
+[![Follow me on Twitch()](https://img.shields.io/twitch/status/Ttiki?style=social)![French flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(https://www.twitch.tv/ttiki)]
+[![Subscribe to my YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social)![French flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1)]
 
 
 
