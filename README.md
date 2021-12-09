@@ -69,8 +69,8 @@ I'm always learning, I never want to stop, it's too much important in science, a
 
 <details>
     <summary>:zap: Github's stats</summary>
-<img align="left" alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
-<img align="left" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
+<img alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
+<img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
 </details>
 
 <br/>
