@@ -1,10 +1,9 @@
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social)(https://github.com/ttiki)]
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/kutsatuta?style=social)![French / English flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/mixed-fr_gb.gif)(https://twitter.com/intent/user?screen_name=Kutsatuta)]
-[![Follow me on Twitch()](https://img.shields.io/twitch/status/Ttiki?style=social)![French flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(https://www.twitch.tv/ttiki)]
-[![Subscribe to my YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social)![French flage](https://raw.githubusercontent.com/Ttiki/Ttiki/main/resources/img/icons/flags/fr.gif)(http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1)]
-
+[<img align="left" alt="Follow on github badge" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>[github]
+[<img align="left" alt="Follow on twitter" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>[twitterf]
+[<img align="left" alt="Follow on twitch" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>[twitch]
+[<img align="left" alt="Follow on youtube" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>[youtubef]
 
 
 <!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -88,3 +87,8 @@ I'm always learning, I never want to stop, it's too much important in science, a
 [twitter]: https://twitter.com/Kutsatuta
 [youtube]: https://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw
 [instagram]: https://www.instagram.com/ttikiofficial/
+[twitch]: https://www.twitch.tv/ttiki
+[github]: https://github.com/ttiki
+
+[twitterf]: https://twitter.com/intent/user?screen_name=Kutsatuta
+[youtubef]: http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1
