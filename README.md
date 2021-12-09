@@ -1,9 +1,9 @@
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
 
-[<img align="left" alt="Follow on github badge" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>[github]
-[<img align="left" alt="Follow on twitter" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>[twitterf]
-[<img align="left" alt="Follow on twitch" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>[twitch]
-[<img align="left" alt="Follow on youtube" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>[youtubef]
+[<img align="left" alt="Follow on github badge" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
+[<img align="left" alt="Follow on twitter" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>][twitterf]
+[<img align="left" alt="Follow on twitch" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>][twitch]
+[<img align="left" alt="Follow on youtube" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>][youtubef]
 
 
 <!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
