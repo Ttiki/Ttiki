@@ -72,7 +72,7 @@ I'm always learning, I never want to stop, it's too much important in science, a
 <img alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
 <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
   <!--START_SECTION:activity-->
-  
+1. 🎉 Merged PR [#7](https://github.com/Stonks-Life-Inc/SuiviSante/pull/7) in [Stonks-Life-Inc/SuiviSante](https://github.com/Stonks-Life-Inc/SuiviSante)
   <!--END_SECTION:activity-->
 </details>
 
