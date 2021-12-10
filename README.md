@@ -1,9 +1,9 @@
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
 
-[<img align="left" alt="Follow on github badge" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
-[<img align="left" alt="Follow on twitter" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>][twitterf]
-[<img align="left" alt="Follow on twitch" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>][twitch]
-[<img align="left" alt="Follow on youtube" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>][youtubef]
+[<img align="left" alt="Follow on github badge" target="_blank" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
+[<img align="left" alt="Follow on twitter" target="_blank" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>][twitterf]
+[<img align="left" alt="Follow on twitch" target="_blank" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>][twitch]
+[<img align="left" alt="Follow on youtube" target="_blank" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>][youtubef]
 
 
 <!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -60,8 +60,8 @@ I'm always learning, I never want to stop, it's too much important in science, a
     <li>🌱 I’m currently learning Application development for Android
   <!-- 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...-->
-    <*>💬 Ask me about anything you want about my project or myself
-    <*>📫 How to reach me: [Follow this link! You'll find my social medias board.](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
+    <li>💬 Ask me about anything you want about my project or myself
+    <li>📫 How to reach me: [Follow this link! You'll find my social medias board.](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
     <li>😄 Pronouns: Ttiki, El nano, *ptitclemdu64*
     <li>⚡ Fun fact: I've got a composit / titanium spine and am a lord of SeaLand
   </ul>
@@ -71,6 +71,9 @@ I'm always learning, I never want to stop, it's too much important in science, a
     <summary>:zap: Github's stats</summary>
 <img alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
 <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
+  <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
 </details>
 
 <br/>
@@ -83,11 +86,11 @@ I'm always learning, I never want to stop, it's too much important in science, a
 * **Games played:** 284 *(76%)*
 * **Hours on record:** 8,024.4h -->
 
-<br/>
+<!--<br/>
 <details>
 <summary>© Copyright & credits</summary>
 [FAMFAMFAM Flags icons](http://www.famfamfam.com/lab/icons/flags/)
-</details>
+</details>-->
 
 
 [website]: https://ttiki.github.io
