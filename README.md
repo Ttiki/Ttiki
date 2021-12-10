@@ -61,7 +61,7 @@ I'm always learning, I never want to stop, it's too much important in science, a
   <!-- 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...-->
     <li>💬 Ask me about anything you want about my project or myself
-    <li>📫 How to reach me: [Follow this link! You'll find my social medias board.](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
+    <li>📫 How to reach me: <a href="https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8" target="_blank" alt="Notion - Social media board">Follow me on these social medias</a>
     <li>😄 Pronouns: Ttiki, El nano, *ptitclemdu64*
     <li>⚡ Fun fact: I've got a composit / titanium spine and am a lord of SeaLand
   </ul>
@@ -69,8 +69,10 @@ I'm always learning, I never want to stop, it's too much important in science, a
 
 <details>
     <summary>:zap: Github's stats</summary>
-<img alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
-<img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
+<img alt="Global stats" width="475px" height="175px" src="https://github-readme-stats.vercel.app/api?username=ttiki&count_private=true&show_icons=true" />
+<img alt="Language stats" width="475px" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&layout=compact" />
+  <br/>  
+  <br/>
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#7](https://github.com/Stonks-Life-Inc/SuiviSante/pull/7) in [Stonks-Life-Inc/SuiviSante](https://github.com/Stonks-Life-Inc/SuiviSante)
   <!--END_SECTION:activity-->
