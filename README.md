@@ -11,14 +11,12 @@
 <br/>
 
 Kaxio! 
-My name is Clément, also known as Ttiki on the internet. I was born in 2001, in Bayonne, Basque country (well technicaly it's France... well... it's complicated.). In 2021 I became a Lord of Sealand!
+My name is Clément, also known as Ttiki on the internet. I was born in 2001, in Bayonne, Basque country (well technically it's France... well... it's complicated.). In 2021 I became a Lord of Sealand!
 I am a software engineer, game maker, mod maker, 3D/2D-ish artist, writer, (voice actor from time to time), blogger, to make it simple, I do a lot of things.
 I've studied 3 years in college to get my bachelor degree in computer science, and I have started my studio on the 9th of March 2020.
 
-I've always been pationate in making stories and computers, that was pretty evident I wanted to work as a developer and more precisely as a game developer. I've started programming when I was around maybe 10 years old (I can't really remember when honestly, it may have been prior to my 10th birthday, but I'm honestly am not sure.) And on second of January 2015 I've published my first Source map for Garry's mod *Garry's Mod | Brick House* (Garry's Mod | Brick House). It was pretty lame, I've started learning mapping for the Source engine for maybe a year. 
+I've always been passionate in making stories and computers, that was pretty evident I wanted to work as a developer and more precisely as a game developer. I've started programming when I was around maybe 10 years old (I can't really remember when honestly, it may have been prior to my 10th birthday, but I'm honestly am not sure.) And on second of January 2015 I've published my first Source map for Garry's mod *Garry's Mod | Brick House* (Garry's Mod | Brick House). It was pretty lame, I've started learning mapping for the Source engine for maybe a year. 
 I've been making little games for me since, and, on the 9th of March 2020 I've started my studio as said above, but also started building my first public, commercial game Twisted Minds. ( *It has been canceled for now* )
-
-I've always been searching for more knowledge. Everyday is a new possibility of learning and discovering about new stuff. Since my  youngest age I was picked up by science, becoming a scientist became my all time dream. Now, I don't know if studies in computer science made me a scientist, but there is still the word science in it so I would say I've accomplished this dream ;)
 
 ---
 
