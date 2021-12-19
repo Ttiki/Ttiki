@@ -78,7 +78,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
   <br/>  
   <br/>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Stonks-Life-Inc/SuiviSante/pull/7) in [Stonks-Life-Inc/SuiviSante](https://github.com/Stonks-Life-Inc/SuiviSante)
+1. ❌ Closed PR [#1](https://github.com/Ttiki/android-basics-kotlin-words-app/pull/1) in [Ttiki/android-basics-kotlin-words-app](https://github.com/Ttiki/android-basics-kotlin-words-app)
   <!--END_SECTION:activity-->
 </details>
 
