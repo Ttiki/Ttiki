@@ -78,7 +78,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
   <br/>  
   <br/>
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Ttiki/android-basics-kotlin-words-app/pull/1) in [Ttiki/android-basics-kotlin-words-app](https://github.com/Ttiki/android-basics-kotlin-words-app)
+1. 💪 Opened PR [#2](https://github.com/Ttiki/UniersitySwiftProject/pull/2) in [Ttiki/UniersitySwiftProject](https://github.com/Ttiki/UniersitySwiftProject)
   <!--END_SECTION:activity-->
 </details>
 
