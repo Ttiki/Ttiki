@@ -50,6 +50,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HAPPY NEW YEAR!!!](https://ttiki-blog.blogspot.com/2022/01/happy-new-year.html)
 - [Ttiki&#39;s November month letter](https://ttiki-blog.blogspot.com/2021/12/ttikis-november-month-letter.html)
 - [Welcome, to this blog 2.0!](https://ttiki-blog.blogspot.com/2021/10/welcome-hello-everyone.html)
 <!-- BLOG-POST-LIST:END -->
