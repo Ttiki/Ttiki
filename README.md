@@ -79,7 +79,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
   <br/>  
   <br/>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Ttiki/UniersitySwiftProject/pull/2) in [Ttiki/UniersitySwiftProject](https://github.com/Ttiki/UniersitySwiftProject)
+1. ❌ Closed PR [#2](https://github.com/Ttiki/university-swift-projects/pull/2) in [Ttiki/university-swift-projects](https://github.com/Ttiki/university-swift-projects)
   <!--END_SECTION:activity-->
 </details>
 
