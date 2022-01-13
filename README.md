@@ -79,7 +79,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
   <br/>  
   <br/>
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Ttiki/university-swift-projects/pull/2) in [Ttiki/university-swift-projects](https://github.com/Ttiki/university-swift-projects)
+1. 🎉 Merged PR [#1](https://github.com/Stonks-Life-Inc/p2p-chat/pull/1) in [Stonks-Life-Inc/p2p-chat](https://github.com/Stonks-Life-Inc/p2p-chat)
   <!--END_SECTION:activity-->
 </details>
 
