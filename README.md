@@ -80,7 +80,7 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
   <br/>  
   <br/>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Stonks-Life-Inc/p2p-chat/pull/1) in [Stonks-Life-Inc/p2p-chat](https://github.com/Stonks-Life-Inc/p2p-chat)
+1. ❌ Closed PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
   <!--END_SECTION:activity-->
 </details>
 
