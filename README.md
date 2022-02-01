@@ -18,14 +18,22 @@ I've studied 3 years in college to get my bachelor degree in computer science, a
 I've always been passionate in making stories and computers, that was pretty evident I wanted to work as a developer and more precisely as a game developer. I've started programming when I was around maybe 10 years old (I can't really remember when honestly, it may have been prior to my 10th birthday, but I'm honestly am not sure.) And on second of January 2015 I've published my first Source map for Garry's mod *Garry's Mod | Brick House* (Garry's Mod | Brick House). It was pretty lame, I've started learning mapping for the Source engine for maybe a year. 
 I've been making little games for me since, and, on the 9th of March 2020 I've started my studio as said above, but also started building my first public, commercial game Twisted Minds. ( *It has been canceled for now* )
 
+**[➡️My gist !](https://gist.github.com/Ttiki)**
+
 ---
 
 ### Connect with me:
 
 [<img align="left" alt="ttiki.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ttiki's Blog" width="22px" src="https://draft.blogger.com/favicon-image.g?blogID=3900979107598292253" />][blog]
+[<img align="left" alt="Ttiki | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ttiki | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Ttiki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ttiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ttiki | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />][reddit]
+
+
+
 
 ➡️ [more ways to connect...](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
 <br/>
@@ -87,21 +95,24 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
 <br/>
 <br/>
 
-<!-- ### My Steam Profile *(from [SteamDB](https://steamdb.info/calculator/76561198057737254/?cc=eu))*
+<!-- **My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198057737254/?cc=eu))*
 
-* **Value:** 4031€ (1232€ with sales)
-* **Games owned:** 370
-* **Games played:** 284 *(76%)*
-* **Hours on record:** 8,024.4h -->
+* **Value:** 2221€ (1355€ with sales)
+* **Games owned:** 400
+* **Games played:** 286 *(71%)*
+* **Hours on record:** 8,304.0h -->
 
-<!--<br/>
+<br/>
 <details>
 <summary>© Copyright & credits</summary>
 [FAMFAMFAM Flags icons](http://www.famfamfam.com/lab/icons/flags/)
-</details>-->
+</details>
 
 
 [website]: https://ttiki.github.io
+[blog]: https://ttiki-blog.blogspot.com/
+[reddit]: https://www.reddit.com/user/Ttikii
+[twitch]: https://www.twitch.tv/ttiki
 [twitter]: https://twitter.com/Kutsatuta
 [youtube]: https://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw
 [instagram]: https://www.instagram.com/ttikiofficial/
