@@ -262,7 +262,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 <details>
   <summary>:zap: Github's stats</summary> 
     <!--Global stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttiki?count_private=true&show_icons=true" alt="Ttiki's GitHub stats"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttiki&?count_private=true&show_icons=true" alt="Ttiki's GitHub stats"/></a>
     <!--Waka time other stats-->
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ttiki" alt="Ttiki's wakatime stats"/></a><br/>
    <!--Top languages-->
@@ -272,11 +272,14 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
     <!--🔥 GitHub Readme Streak Stats-->
     <a href="https://git.io/streak-stats"><img align="center" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
     <br/>
+    <br/>
     <!--START_SECTION:waka-->
 ```text
 Other        16 mins         █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
+    <br/>
+  <br/>
     <!--START_SECTION:activity-->
     1. ❌ Closed PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
     <!--END_SECTION:activity-->
