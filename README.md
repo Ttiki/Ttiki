@@ -13,10 +13,6 @@
 [twitterf]: https://twitter.com/intent/user?screen_name=Kutsatuta
 [youtubef]: http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1
 
-<!--Action Variables-->
-<!--#
-ICONSSIZE=25px
-$-->
 
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
@@ -128,10 +124,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z-->
+  <!--Z--><br/>
 </details>
 <br/>
-<details>
+<br/>
+<details style="clear:both;">
   <summary>IDE & Text Editor</summary>
   <!--A-->
   <img align="left" alt="Atom" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" />
@@ -163,10 +160,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z-->
+  <!--Z--><br/>
 </details>
 <br/>
-<details>
+<br/>
+<details style="clear: both;">
   <summary>SDKs, APIs, frameworks, libraries, OS and other tools</summary>
   <!--A-->
   <img align="left" alt="Apache" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" />
@@ -226,10 +224,10 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z-->
+  <!--Z--><br/>
 </details>
 
-<br />
+<br/>
 
 ---
 
@@ -283,11 +281,13 @@ Other        16 mins         █████████████████
 <br/>
 <br/>
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 2. 💪 Opened PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 3. 🎉 Merged PR [#4](https://github.com/Stonks-Life-Inc/AirAlert/pull/4) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 4. 💪 Opened PR [#4](https://github.com/Stonks-Life-Inc/AirAlert/pull/4) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 5. ❌ Closed PR [#3](https://github.com/Stonks-Life-Inc/AirAlert/pull/3) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
+
 <!--END_SECTION:activity-->
 <br/>
 <br/>
