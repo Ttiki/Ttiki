@@ -30,6 +30,7 @@ $-->
 [<img align="left" alt="Follow on twitter" target="_blank" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>][twitterf]
 [<img align="left" alt="Follow on twitch" target="_blank" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>][twitch]
 [<img align="left" alt="Follow on youtube" target="_blank" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>][youtubef]
+[<img align="left" alt="Follow on reddit" target="_balnk" src="https://img.shields.io/reddit/user-karma/combined/Ttikii?style=social"/>][reddit]
 
 
 <!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
