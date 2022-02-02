@@ -275,6 +275,9 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 #### Other stats
 <!--START_SECTION:waka-->
+```text
+Other        16 mins         █████████████████████████   99.83 % 
+```
 <!--END_SECTION:waka-->
 <br/>
 <br/>
