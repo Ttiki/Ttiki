@@ -284,6 +284,8 @@ Other        16 mins         █████████████████
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <br/>
+<br/>
+![](https://hit.yhype.me/github/profile?user_id=51489503)
 
 ---
 
@@ -301,4 +303,5 @@ Other        16 mins         █████████████████
   - [GitHub view counter](https://github.com/antonkomarev/github-profile-views-counter)
   - [GitHub typing svg](https://github.com/denvercoder1/readme-typing-svg)
   - [Blog posts workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+  - [Ÿ HŸPE stats](https://yhype.me/)
 </details>
