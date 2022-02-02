@@ -273,7 +273,10 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
     <a href="https://git.io/streak-stats"><img align="center" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
     <br/>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+```text
+Other        16 mins         █████████████████████████   99.83 % 
+```
+<!--END_SECTION:waka-->
     <!--START_SECTION:activity-->
     1. ❌ Closed PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
     <!--END_SECTION:activity-->
