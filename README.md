@@ -278,7 +278,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 Other        8 hrs 35 mins   █████████████░░░░░░░░░░░░   52.41 % 
 HTML         2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 JavaScript   2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-SCSS         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+SCSS         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 XML          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
