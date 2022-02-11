@@ -233,10 +233,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ttiki&#39;s December month letter](https://ttiki-blog.blogspot.com/2022/01/ttikis-december-month-letter.html)
-- [HAPPY NEW YEAR!!!](https://ttiki-blog.blogspot.com/2022/01/happy-new-year.html)
-- [Ttiki&#39;s November month letter](https://ttiki-blog.blogspot.com/2021/12/ttikis-november-month-letter.html)
-- [Welcome, to this blog 2.0!](https://ttiki-blog.blogspot.com/2021/10/welcome-hello-everyone.html)
+- [Ttiki&#39;s January month letter](https://blog.ttiki-hub.me/2022/02/ttikis-january-month-letter.html)
+- [Ttiki&#39;s December month letter](https://blog.ttiki-hub.me/2022/01/ttikis-december-month-letter.html)
+- [HAPPY NEW YEAR!!!](https://blog.ttiki-hub.me/2022/01/happy-new-year.html)
+- [Ttiki&#39;s November month letter](https://blog.ttiki-hub.me/2021/12/ttikis-november-month-letter.html)
+- [Welcome, to this blog 2.0!](https://blog.ttiki-hub.me/2021/10/welcome-hello-everyone.html)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more blog posts...](https://ttiki-blog.blogspot.com/)
 
