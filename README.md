@@ -33,7 +33,9 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&duration=2500&lines=Making+code%2C+because+I+can!)](https://git.io/typing-svg)
+🙋‍♂️ - Born in the Basque Country in 2001, former CS student - 🕹️ Game | Mod | Map maker - 🖥️ Developer | Writer | Digital artist (LordAkats_) - 📈 Entrepreneur | I launched my own indie studio in 2020 (Jostatu)
+
+[![Typing SVG](https://readme-svg-typewriter.herokuapp.com?color=%23000000&duration=3500&vCenter=true&lines=Writing+code%2C+because+I+can)](https://git.io/typing-svg)
 
 Kaxio! 
 My name is Clément, also known as Ttiki on the internet. I was born in 2001, in Bayonne, Basque country (well technically it's France... well... it's complicated.). In 2021 I became a Lord of Sealand!
@@ -45,6 +47,12 @@ I've been making little games for me since, and, on the 9th of March 2020 I've s
 
 **[➡️My gist !](https://gist.github.com/Ttiki)**
 <br/>
+
+### My organizations
+I'v got three organizations on GitHub you can look at:<br/>
+[@Jostatu](https://github.com/Jostatu) my studio organization Most repos are private, **however** I may publish some open source software and old games code from time to time.<br/>
+[@Stonks Life Inc](https://github.com/Stonks-Life-Inc) My second organization where me and some of my friends publish some universwity projects code and some personnal projects as well.<br/>
+[@LordAkats_](https://github.com/LordAkats) My last organization specialy made for my art account of the same name. I will post some code from software/script I wrote as well as shaders and other _visual_ stuff. <br/>
 
 ---
 
@@ -82,7 +90,6 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <img align="left" alt="Bash" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   <!--C-->
   <img align="left" alt="C" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="left" alt="CakePHP" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" />
   <img align="left" alt="C++" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="C#" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="left" alt="CSS3" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -134,6 +141,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <img align="left" alt="Atom" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" />
   <!--B-->
   <!--C-->
+  <img align="left" alt="Codepen" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" />
   <!--D-->
   <!--E-->
   <!--F-->
@@ -141,6 +149,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--H-->
   <!--I-->
   <!--J-->
+  <img align="left" alt="Jetbrains" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" />
   <!--K-->
   <!--L-->
   <!--M-->
@@ -170,9 +179,9 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <img align="left" alt="Apache" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" />
   <img align="left" alt="Arduino" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />
   <!--B-->
-  <img align="left" alt="bitbucket" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <img align="left" alt="Bootstrap" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <!--C-->
+   <img align="left" alt="CakePHP" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" />
   <!--D-->
   <img align="left" alt="D3.js" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" />
   <img align="left" alt="Docker" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
@@ -184,12 +193,9 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <img align="left" alt="Flutter" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
   <!--G-->
   <img align="left" alt="GCC" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" />
-  <img align="left" alt="Git" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-  <img align="left" alt="GitHub" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-  <img align="left" alt="Gitlab" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="left" alt="Gradle" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" />
   <!--H-->
-  <img align="left" alt="Heroku" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
+  
   <!--I-->
   <!--J-->
   <img align="left" alt="JQuery" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
@@ -205,7 +211,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!-- I know it's Dot NET and no just NET, but I don't care -->
   <img align="left" alt=".Net" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
   <img align="left" alt="NodeJS" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="left" alt="NPM" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+  
   <!--O-->
   <!--P-->
   <img align="left" alt="PostgreSQL" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
@@ -225,6 +231,47 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--X-->
   <!--Y-->
   <!--Z--><br/>
+</details>
+<br/>
+<br/>
+<details>
+  <summary>Host, cloud and services</summary>
+  <!--A-->
+  <img align="left" alt="Azur" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <!--B-->
+  <img align="left" alt="bitbucket" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" />
+  <!--C-->
+  <img align="left" alt="Canva" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+  <!--D-->
+  <img align="left" alt="Digital Ocean" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <!--E-->
+  <!--F-->
+  <!--G-->
+  <img align="left" alt="Git" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+  <img align="left" alt="GitHub" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+  <img align="left" alt="Gitlab" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" />
+  <!--H-->
+  <img align="left" alt="Heroku" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
+  <!--I-->
+  <!--J-->
+  <!--K-->
+  <!--L-->
+  <!--M-->
+  <!--N-->
+  <img align="left" alt="NPM" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+  <!--O-->
+  <!--P-->
+  <!--Q-->
+  <!--R-->
+  <!--S-->
+  <!--T-->
+  <img align="left" alt="Tower" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/towergit/towergit-original.svg" />
+  <!--U-->
+  <!--V-->
+  <!--W-->
+  <!--X-->
+  <!--Y-->
+  <!--Z-->
 </details>
 
 <br/>
@@ -264,13 +311,13 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
     <!--Global stats-->
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttiki&?count_private=true&show_icons=true" alt="Ttiki's GitHub stats"/></a>
     <!--Waka time other stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ttiki" alt="Ttiki's wakatime stats"/></a><br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ttiki" alt="Ttiki's wakatime stats"/></a><br/>
    <!--Top languages-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&langs_count=10" alt="Ttiki's top languages"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&langs_count=10" alt="Ttiki's top languages"/></a>
+    <!--🔥 GitHub Readme Streak Stats-->
+    <a href="https://git.io/streak-stats"><img align="center" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
     <!--profile trophy-->
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ttiki&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Ttiki's GitHub profile trophy"/></a><br/>
-    <!--🔥 GitHub Readme Streak Stats-->
-    <a href="https://git.io/streak-stats"><img align="center" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
 </details>
 
 #### Other stats
@@ -294,11 +341,6 @@ Markdown   43 mins         ██▒░░░░░░░░░░░░░░�
 5. 🎉 Merged PR [#4](https://github.com/Stonks-Life-Inc/AirAlert/pull/4) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 
 <!--END_SECTION:activity-->
-<br/>
-<br/>
-
-![](https://hit.yhype.me/github/profile?user_id=51489503)
-
 ---
 
 <details>
