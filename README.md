@@ -323,13 +323,13 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 #### Other stats
 <!--START_SECTION:waka-->
 ```text
-Total: 9 hrs 8 mins
+Total: 9 hrs 59 mins
 
-Java       2 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
-HTML       1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
-PHP        1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Lua        1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Markdown   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Java       2 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Markdown   1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
+HTML       1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
+PHP        1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Lua        1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
