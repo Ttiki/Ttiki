@@ -309,29 +309,19 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 <details>
   <summary>:zap: Github's stats</summary> 
     <!--Global stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttiki&?count_private=true&show_icons=true" alt="Ttiki's GitHub stats"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api?username=ttiki&?count_private=true&show_icons=true" alt="Ttiki's GitHub stats"/></a>
     <!--Waka time other stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ttiki" alt="Ttiki's wakatime stats"/></a><br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api/wakatime?username=ttiki&layout=compact" alt="Ttiki's wakatime stats"/></a><br/>
    <!--Top languages-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiki&langs_count=10" alt="Ttiki's top languages"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api/top-langs?username=ttiki&langs_count=10&layout=compact" alt="Ttiki's top languages"/></a>
     <!--🔥 GitHub Readme Streak Stats-->
-    <a href="https://git.io/streak-stats"><img align="center" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
+    <a href="https://git.io/streak-stats"><img align="center" align="right" src="https://github-readme-streak-stat-ttik.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/>
     <!--profile trophy-->
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ttiki&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Ttiki's GitHub profile trophy"/></a><br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ttiki&column=7&margin-w=15&margin-h=15&no-bg=true&row=2&column=3" alt="Ttiki's GitHub profile trophy"/></a><br/>
 </details>
 
-#### Other stats
-<!--START_SECTION:waka-->
-```text
-Java       5 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Other      3 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Markdown   2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-CSON       2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-C++        1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-```
-<!--END_SECTION:waka-->
-<br/>
-<br/>
+#### Latest activity
+
 <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#3](https://github.com/Ttiki/creation-commentaires-cours/pull/3) in [Ttiki/creation-commentaires-cours](https://github.com/Ttiki/creation-commentaires-cours)
