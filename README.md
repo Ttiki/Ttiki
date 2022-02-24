@@ -323,11 +323,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 #### Other stats
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
-Markdown     3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Other        2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-CSON         2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Git Config   2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Java       5 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Other      3 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Markdown   2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+CSON       2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+C++        1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
