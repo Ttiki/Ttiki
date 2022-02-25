@@ -82,66 +82,65 @@ I'v got three organizations on GitHub you can look at:<br/>
 ### Languages and Tools:
 This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use for my work. Credits at the end of the readme for this incredible icons. (*This is a non-exhaustive list!*)
 <!-- <img align="left" alt="GitHub" width="26px" src="" /> -->
-<details>
-  
+
+<details style="display: flex; gap: 10px;">
+
   <summary>Languages</summary>
   <!--A-->
   <!--B-->
-  <img align="left" alt="Bash" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img  alt="Bash" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   <!--C-->
-  <img align="left" alt="C" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="left" alt="C++" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img align="left" alt="C#" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="CSS3" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img  alt="C" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img  alt="C++" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img  alt="C#" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img  alt="CSS3" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
   <!--D-->
-  <img align="left" alt="Dart" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+  <img  alt="Dart" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
   <!--E-->
   <!--F-->
   <!--G-->
   <!--H-->
-  <img align="left" alt="HTML5" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img  alt="HTML5" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <!--I-->
   <!--J-->
-  <img align="left" alt="Java" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-  <img align="left" alt="JavaScript" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img  alt="Java" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img  alt="JavaScript" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <!--K-->
-  <img align="left" alt="Kotlin" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+  <img  alt="Kotlin" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <!--L-->
-  <img align="left" alt="Lua"width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" />
+  <img  alt="Lua"width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" />
   <!--M-->
-  <img align="left" alt="Markdown" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+  <img  alt="Markdown" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
   <!--N-->
   <!--O-->
   <!-- I know it's not just a programming language, but there is too much things going on the SDK, API, Library, OS and tools section below... -->
-  <img align="left" alt="OpenGL" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" />
+  <img  alt="OpenGL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" />
   <!--P-->
-  <img align="left" alt="PHP"width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="left" alt="Processing" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" />
-  <img align="left" alt="Python" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img  alt="PHP"width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img  alt="Processing" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" />
+  <img  alt="Python" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <!--Q-->
   <!--R-->
-  <img align="left" alt="R" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
+  <img  alt="R" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
   <!--S-->
-  <img align="left" alt="Sass" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  <img align="left" alt="Swift" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+  <img  alt="Sass" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img  alt="Swift" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
   <!--T-->
-  <img align="left" alt="Typescript" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img  alt="Typescript" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <!--U-->
   <!--V-->
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z--><br/>
+  <!--Z-->
 </details>
-<br/>
-<br/>
-<details style="clear:both;">
+<details style="display: flex; gap: 10px;">
   <summary>IDE & Text Editor</summary>
   <!--A-->
-  <img align="left" alt="Atom" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" />
+  <img  alt="Atom" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" />
   <!--B-->
   <!--C-->
-  <img align="left" alt="Codepen" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" />
+  <img  alt="Codepen" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" />
   <!--D-->
   <!--E-->
   <!--F-->
@@ -149,7 +148,7 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--H-->
   <!--I-->
   <!--J-->
-  <img align="left" alt="Jetbrains" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" />
+  <img  alt="Jetbrains" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" />
   <!--K-->
   <!--L-->
   <!--M-->
@@ -158,114 +157,110 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--P-->
   <!--Q-->
   <!--R-->
-  <img align="left" alt="RStudio" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" />
+  <img  alt="RStudio" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" />
   <!--S-->
   <!--T-->
   <!--U-->
   <!--V-->
-  <img align="left" alt="Vim" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
-  <img align="left" alt="Visual Studio" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="left" alt="Visual Studio Code" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img  alt="Vim" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
+  <img  alt="Visual Studio" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+  <img  alt="Visual Studio Code" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z--><br/>
+  <!--Z-->
 </details>
-<br/>
-<br/>
-<details style="clear: both;">
+<details style="display: flex; gap: 10px;">
   <summary>SDKs, APIs, frameworks, libraries, OS and other tools</summary>
   <!--A-->
-  <img align="left" alt="Apache" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" />
-  <img align="left" alt="Arduino" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />
+  <img  alt="Apache" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" />
+  <img  alt="Arduino" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />
   <!--B-->
-  <img align="left" alt="Bootstrap" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img  alt="Bootstrap" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <!--C-->
-   <img align="left" alt="CakePHP" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" />
+   <img  alt="CakePHP" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" />
   <!--D-->
-  <img align="left" alt="D3.js" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" />
-  <img align="left" alt="Docker" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img  alt="D3.js" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" />
+  <img  alt="Docker" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <!--E-->
-  <img align="left" alt="Electron" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original-wordmark.svg" />
+  <img  alt="Electron" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original-wordmark.svg" />
   <!--F-->
-  <img align="left" alt="Filezilla" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" />
-  <img align="left" alt="Firebase" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
-  <img align="left" alt="Flutter" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  <img  alt="Filezilla" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" />
+  <img  alt="Firebase" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
+  <img  alt="Flutter" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
   <!--G-->
-  <img align="left" alt="GCC" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" />
-  <img align="left" alt="Gradle" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" />
+  <img  alt="GCC" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" />
+  <img  alt="Gradle" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" />
   <!--H-->
   
   <!--I-->
   <!--J-->
-  <img align="left" alt="JQuery" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
-  <img align="left" alt="Jupyter" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img  alt="JQuery" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
+  <img  alt="Jupyter" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
   <!--K-->
   <!--L-->
   <!--M-->
-  <img align="left" alt="Material UI" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
-  <img align="left" alt="MatLab" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />
-  <img align="left" alt="MsDOS" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" />
-  <img align="left" alt="MySQL" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img  alt="Material UI" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
+  <img  alt="MatLab" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />
+  <img  alt="MsDOS" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" />
+  <img  alt="MySQL" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   <!--N-->
   <!-- I know it's Dot NET and no just NET, but I don't care -->
-  <img align="left" alt=".Net" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
-  <img align="left" alt="NodeJS" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img  alt=".Net" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img  alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   
   <!--O-->
   <!--P-->
-  <img align="left" alt="PostgreSQL" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="left" alt="Putty" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" />
+  <img  alt="PostgreSQL" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img  alt="Putty" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" />
   <!--Q-->
-  <img align="left" alt="QT" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" />
+  <img  alt="QT" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" />
   <!--R-->
-  <img align="left" alt="RaspberryPi" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="left" alt="React" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img  alt="RaspberryPi" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
+  <img  alt="React" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <!--S-->
-  <img align="left" alt="Symfony" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" />
+  <img  alt="Symfony" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" />
   <!--T-->
   <!--U-->
-  <img align="left" alt="Unity" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
+  <img  alt="Unity" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <!--V-->
   <!--W-->
   <!--X-->
   <!--Y-->
-  <!--Z--><br/>
+  <!--Z-->
 </details>
-<br/>
-<br/>
-<details>
+<details style="display: flex; gap: 10px;">
   <summary>Host, cloud and services</summary>
   <!--A-->
-  <img align="left" alt="Azur" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img  alt="Azur" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
   <!--B-->
-  <img align="left" alt="bitbucket" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" />
+  <img  alt="bitbucket" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <!--C-->
-  <img align="left" alt="Canva" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+  <img  alt="Canva" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
   <!--D-->
-  <img align="left" alt="Digital Ocean" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  <img  alt="Digital Ocean" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" />
   <!--E-->
   <!--F-->
   <!--G-->
-  <img align="left" alt="Git" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-  <img align="left" alt="GitHub" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-  <img align="left" alt="Gitlab" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img  alt="Git" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+  <img  alt="GitHub" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+  <img  alt="Gitlab" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" />
   <!--H-->
-  <img align="left" alt="Heroku" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
+  <img  alt="Heroku" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
   <!--I-->
   <!--J-->
   <!--K-->
   <!--L-->
   <!--M-->
   <!--N-->
-  <img align="left" alt="NPM" width="35px" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+  <img  alt="NPM" width="35px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
   <!--O-->
   <!--P-->
   <!--Q-->
   <!--R-->
   <!--S-->
   <!--T-->
-  <img align="left" alt="Tower" width="35px" style="margin:5px"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/towergit/towergit-original.svg" />
+  <img  alt="Tower" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/towergit/towergit-original.svg" />
   <!--U-->
   <!--V-->
   <!--W-->
