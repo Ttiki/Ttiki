@@ -319,9 +319,9 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Ttiki/creation-commentaires-cours/pull/3) in [Ttiki/creation-commentaires-cours](https://github.com/Ttiki/creation-commentaires-cours)
-2. 💪 Opened PR [#3](https://github.com/Ttiki/creation-commentaires-cours/pull/3) in [Ttiki/creation-commentaires-cours](https://github.com/Ttiki/creation-commentaires-cours)
-3. ❌ Closed PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
+1. 🗣 Commented on [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/issues/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+2. 🎉 Merged PR [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+3. 💪 Opened PR [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
 4. 💪 Opened PR [#5](https://github.com/Stonks-Life-Inc/AirAlert/pull/5) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 5. 🎉 Merged PR [#4](https://github.com/Stonks-Life-Inc/AirAlert/pull/4) in [Stonks-Life-Inc/AirAlert](https://github.com/Stonks-Life-Inc/AirAlert)
 
