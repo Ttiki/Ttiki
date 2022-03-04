@@ -319,11 +319,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/issues/2) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-2. 🎉 Merged PR [#2](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/2) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-3. 🗣 Commented on [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/issues/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-4. 🎉 Merged PR [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-5. 💪 Opened PR [#1](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/1) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+1. 🎉 Merged PR [#5](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/5) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+2. 🎉 Merged PR [#6](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/6) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+3. 💪 Opened PR [#6](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/6) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+4. 🗣 Commented on [#2](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/issues/2) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+5. 🎉 Merged PR [#2](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/2) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
 
 <!--END_SECTION:activity-->
 ---
