@@ -320,11 +320,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/14) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-2. 💪 Opened PR [#14](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/14) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-3. 🎉 Merged PR [#13](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/13) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-4. 💪 Opened PR [#13](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/13) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
-5. 🎉 Merged PR [#12](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite/pull/12) in [Stonks-Life-Inc/university-projet-poo-scolarite](https://github.com/Stonks-Life-Inc/university-projet-poo-scolarite)
+1. 🗣 Commented on [#3](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/3) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+2. 🎉 Merged PR [#3](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/3) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+3. 🗣 Commented on [#3](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/3) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+4. 💪 Opened PR [#3](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/3) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+5. 🎉 Merged PR [#2](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/2) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
 
 <!--END_SECTION:activity-->
 ---
