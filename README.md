@@ -35,7 +35,7 @@
 
 🙋‍♂️ - Born in the Basque Country in 2001, former CS student - 🕹️ Game | Mod | Map maker - 🖥️ Developer | Writer | Digital artist (LordAkats_) - 📈 Entrepreneur | I launched my own indie studio in 2020 (Jostatu)
 
-[![Typing SVG](https://readme-svg-typewriter.herokuapp.com?color=%238A8A8A&duration=3500&multiline=true&height=64&lines=Writing+code%2C+;because+I+can)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-svg-typewriter.herokuapp.com?color=%23FFAD00&duration=3500&multiline=true&height=64&lines=Writing+code%2C+;because+I+can)](https://git.io/typing-svg)
 
 Kaxio! 
 My name is Clément, also known as Ttiki on the internet. I was born in 2001, in Bayonne, Basque country (well technically it's France... well... it's complicated.). In 2021 I became a Lord of Sealand!
