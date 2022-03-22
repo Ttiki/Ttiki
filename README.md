@@ -320,11 +320,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/5) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-2. 💪 Opened PR [#5](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/5) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-3. 🎉 Merged PR [#4](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/4) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-4. 💪 Opened PR [#4](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/4) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-5. 🗣 Commented on [#3](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/3) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+1. 🎉 Merged PR [#1](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/1) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
+2. 💪 Opened PR [#1](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/1) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
+3. 🎉 Merged PR [#1](https://github.com/UPPA-s-University-Projects/.github/pull/1) in [UPPA-s-University-Projects/.github](https://github.com/UPPA-s-University-Projects/.github)
+4. 💪 Opened PR [#1](https://github.com/UPPA-s-University-Projects/.github/pull/1) in [UPPA-s-University-Projects/.github](https://github.com/UPPA-s-University-Projects/.github)
+5. 🎉 Merged PR [#5](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/5) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
 
 <!--END_SECTION:activity-->
 ---
