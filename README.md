@@ -53,6 +53,7 @@ I'v got three organizations on GitHub you can look at:<br/>
 [@Jostatu](https://github.com/Jostatu) my studio organization Most repos are private, **however** I may publish some open source software and old games code from time to time.<br/>
 [@Stonks Life Inc](https://github.com/Stonks-Life-Inc) My second organization where me and some of my friends publish some universwity projects code and some personnal projects as well.<br/>
 [@LordAkats_](https://github.com/LordAkats) My last organization specialy made for my art account of the same name. I will post some code from software/script I wrote as well as shaders and other _visual_ stuff. <br/>
+[@UPPA's university projects](https://github.com/UPPA-s-University-Projects) A special organization where I store every university related projects. These projects were made during my computer science bachelor degree (year 2019-2022). _Some projects are stored in the [@Stonks Life Inc](https://github.com/Stonks-Life-Inc) organization repo because they were group projects made by the Stonks Life Inc._
 
 ---
 
