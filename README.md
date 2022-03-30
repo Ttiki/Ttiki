@@ -321,11 +321,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/9) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-2. 🎉 Merged PR [#8](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/8) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
-3. 💪 Opened PR [#8](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/8) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
-4. 🎉 Merged PR [#7](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/7) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
-5. 💪 Opened PR [#7](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/7) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
+1. ❌ Closed PR [#9](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/9) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+2. 💪 Opened PR [#9](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/9) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+3. 🎉 Merged PR [#8](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/8) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
+4. 💪 Opened PR [#8](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/8) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
+5. 🎉 Merged PR [#7](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours/pull/7) in [UPPA-s-University-Projects/3-2022-Mobile2-cours](https://github.com/UPPA-s-University-Projects/3-2022-Mobile2-cours)
 
 <!--END_SECTION:activity-->
 ---
