@@ -321,11 +321,11 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-2. 🗣 Commented on [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-3. ❗️ Opened issue [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-4. ❗️ Opened issue [#11](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/11) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-5. 🎉 Merged PR [#10](https://github.com/Stonks-Life-Inc/university-p2p-chat/pull/10) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+1. 🎉 Merged PR [#1](https://github.com/Ttiki/simple-quizz/pull/1) in [Ttiki/simple-quizz](https://github.com/Ttiki/simple-quizz)
+2. 💪 Opened PR [#1](https://github.com/Ttiki/simple-quizz/pull/1) in [Ttiki/simple-quizz](https://github.com/Ttiki/simple-quizz)
+3. ❗️ Closed issue [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+4. 🗣 Commented on [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
+5. ❗️ Opened issue [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
 
 <!--END_SECTION:activity-->
 ---
