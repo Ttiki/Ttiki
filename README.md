@@ -1,3 +1,4 @@
+<!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--VARIABLES DECLARATION-->
 <!--Links-->
 [website]: https://ttiki.github.io
@@ -21,14 +22,7 @@
 ![Views counter](https://komarev.com/ghpvc/?username=ttiki&color=orange)
 [<img align="left" alt="Follow on github badge" target="_blank" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
 <!--Global stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api?username=ttiki&?count_private=true&show_icons=truecard_width=445" alt="Ttiki's GitHub stats"/></a><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiki)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.
