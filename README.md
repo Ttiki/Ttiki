@@ -18,32 +18,23 @@
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ttiki/ama)
-[![saythanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/Ttiki)
 ![Views counter](https://komarev.com/ghpvc/?username=ttiki&color=orange)
-<br/>
-<br/>
 [<img align="left" alt="Follow on github badge" target="_blank" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
-[<img align="left" alt="Follow on twitter" target="_blank" src="https://img.shields.io/twitter/follow/kutsatuta?style=social"/>][twitterf]
-[<img align="left" alt="Follow on twitch" target="_blank" src="https://img.shields.io/twitch/status/Ttiki?style=social"/>][twitch]
-[<img align="left" alt="Follow on youtube" target="_blank" src="https://img.shields.io/youtube/channel/subscribers/UCeIO_K2bJR7gakbmD8vsrgw?style=social"/>][youtubef]
-[<img align="left" alt="Follow on reddit" target="_balnk" src="https://img.shields.io/reddit/user-karma/combined/Ttikii?style=social"/>][reddit]
-
-
+<!--Global stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api?username=ttiki&?count_private=true&show_icons=truecard_width=445" alt="Ttiki's GitHub stats"/></a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <!--**Ttiki/Ttiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <br/>
 <br/>
 
-🙋‍♂️ - Born in the Basque Country in 2001, former CS student - 🕹️ Game | Mod | Map maker - 🖥️ Developer | Writer | Digital artist (LordAkats_) - 📈 Entrepreneur | I launched my own indie studio in 2020 (Jostatu)
-
-[![Typing SVG](https://readme-svg-typewriter.herokuapp.com?color=%23FFAD00&duration=3500&multiline=true&height=64&lines=Writing+code%2C+;because+I+can)](https://git.io/typing-svg)
-
-Kaxio! 
-My name is Clément, also known as Ttiki on the internet. I was born in 2001, in Bayonne, Basque country (well technically it's France... well... it's complicated.). In 2021 I became a Lord of Sealand!
-I am a software engineer, game maker, mod maker, 3D/2D-ish artist, writer, (voice actor from time to time), blogger, to make it simple, I do a lot of things.
-I've studied 3 years in college to get my bachelor degree in computer science, and I have started my studio on the 9th of March 2020.
-
-I've always been passionate in making stories and computers, that was pretty evident I wanted to work as a developer and more precisely as a game developer. I've started programming when I was around maybe 10 years old (I can't really remember when honestly, it may have been prior to my 10th birthday, but I'm honestly am not sure.) And on second of January 2015 I've published my first Source map for Garry's mod *Garry's Mod | Brick House* (Garry's Mod | Brick House). It was pretty lame, I've started learning mapping for the Source engine for maybe a year. 
-I've been making little games for me since, and, on the 9th of March 2020 I've started my studio as said above, but also started building my first public, commercial game Twisted Minds. ( *It has been canceled for now* )
+📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.
+🌍🧳 Today, as an avid traveler 🧭🌴, I love to discover new places, cultures, and people. These experiences have given me a broader perspective on the world 🌎 and introduced me to inspiring individuals.
+💻🌅 I enjoy creating innovative multimedia projects 🎨, combining my passion for photography, cinema, and computer science. I am always looking for new challenges, creative projects that allow me to push my limits and expand my skills.
+🚀👨‍💻 My ambition is to continue to explore the world 🌟, discover new horizons, and advance technology for the benefit of others.
 
 **[➡️My gist !](https://gist.github.com/Ttiki)**
 <br/>
@@ -54,29 +45,6 @@ I'v got three organizations on GitHub you can look at:<br/>
 [@Stonks Life Inc](https://github.com/Stonks-Life-Inc) My second organization where me and some of my friends publish some universwity projects code and some personnal projects as well.<br/>
 [@LordAkats_](https://github.com/LordAkats) My last organization specialy made for my art account of the same name. I will post some code from software/script I wrote as well as shaders and other _visual_ stuff. <br/>
 [@UPPA's university projects](https://github.com/UPPA-s-University-Projects) A special organization where I store every university related projects. These projects were made during my computer science bachelor degree (year 2019-2022). _Some projects are stored in the [@Stonks Life Inc](https://github.com/Stonks-Life-Inc) organization repo because they were group projects made by the Stonks Life Inc._
-
----
-
-### Connect with me:
-<!--[![Ttiki's HUB](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)][website]
-[![Ttiki's Blog](https://1.bp.blogspot.com/-z78EKsyIB2s/YG304qlj8WI/AAAAAAAAEMY/gjaorXX4X3EQ_Nwdl0mc-bbrvQnBouAewCK4BGAYYCw/s120-pf/ttiki-logo.png)][blog]
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)][youtube]
-[![Twitch](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg)][twitch]
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
-[![Reddit](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg)][reddit]-->
-
-[<img align="left" alt="ttiki.github.io" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ttiki's Blog" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blog]
-[<img align="left" alt="Ttiki | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ttiki | Twitch" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Ttiki | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ttiki | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ttiki | Reddit" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />][reddit]
-
-
-➡️ [more ways to connect...](https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8)
-<br/>
 
 ---
 
@@ -274,62 +242,6 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
 
 ---
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Ttiki&#39;s February month letter](https://ttiki-blog.blogspot.com/2022/03/ttikis-february-month-letter.html)
-- [Ttiki&#39;s January month letter](https://ttiki-blog.blogspot.com/2022/02/ttikis-january-month-letter.html)
-- [Ttiki&#39;s December month letter](https://ttiki-blog.blogspot.com/2022/01/ttikis-december-month-letter.html)
-- [HAPPY NEW YEAR!!!](https://ttiki-blog.blogspot.com/2022/01/happy-new-year.html)
-- [Ttiki&#39;s November month letter](https://ttiki-blog.blogspot.com/2021/12/ttikis-november-month-letter.html)
-- [Welcome, to this blog 2.0!](https://ttiki-blog.blogspot.com/2021/10/welcome-hello-everyone.html)
-<!-- BLOG-POST-LIST:END -->
-➡️ [read more blog posts...](https://ttiki-blog.blogspot.com/)
-
-<br/>
-
----
-
-### More info about me
-<details>
-  <summary>:zap: Fun info</summary>
-  
-  * 🔭 I’m currently working on Too many project to be listed here<br/>
-  * 🌱 I’m currently learning Application development for Android<br/>
-  <!-- 👯 I’m looking to collaborate on ...
-  * 🤔 I’m looking for help with ...-->
-  * 💬 Ask me about anything you want about my project or myself<br/>
-  * 📫 How to reach me: [https://ttiki.notion.site/c19441f7173749e3a1d5551171e69366?v=b32b95c657434bc38a46fbdd9c1acfa8](Follow me on these social medias)<br/>
-  * 😄 Pronouns: Ttiki, El nano, *ptitclemdu64*<br/>
-  * ⚡ Fun fact: I've got a composit / titanium spine and am a lord of SeaLand<br/>
-  
-</details>
-<details>
-  <summary>:zap: Github's stats</summary> 
-    <!--Global stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api?username=ttiki&?count_private=true&show_icons=truecard_width=445" alt="Ttiki's GitHub stats"/></a><br/>
-    <!--Waka time other stats-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api/wakatime?username=ttiki&layout=compact&card_width=445" alt="Ttiki's wakatime stats"/></a><br/>
-   <!--Top languages-->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-caxgdm8r9-ttiki.vercel.app/api/top-langs?username=ttiki&langs_count=10&layout=compact&card_width=445" alt="Ttiki's top languages"/></a>
-    <!--🔥 GitHub Readme Streak Stats--><br/>
-    <a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stat-ttik.herokuapp.com?user=Ttiki&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="Ttiki's GitHub Streak"/></a><br/><br/>
-    <!--profile trophy-->
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttiki&column=7&margin-w=15&margin-h=15&no-bg=true&row=2&column=3" alt="Ttiki's GitHub profile trophy"/></a><br/>
-</details>
-
-#### Latest activity
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#1805](https://github.com/education/GitHubGraduation-2022/pull/1805) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-2. 🎉 Merged PR [#1](https://github.com/Ttiki/simple-quizz/pull/1) in [Ttiki/simple-quizz](https://github.com/Ttiki/simple-quizz)
-3. 💪 Opened PR [#1](https://github.com/Ttiki/simple-quizz/pull/1) in [Ttiki/simple-quizz](https://github.com/Ttiki/simple-quizz)
-4. ❗️ Closed issue [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-5. 🗣 Commented on [#12](https://github.com/Stonks-Life-Inc/university-p2p-chat/issues/12) in [Stonks-Life-Inc/university-p2p-chat](https://github.com/Stonks-Life-Inc/university-p2p-chat)
-
-<!--END_SECTION:activity-->
----
-
 <details>
 <summary>© Copyright & credits</summary>
   
@@ -337,12 +249,5 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   - [FAMFAMFAM Flags icons](http://www.famfamfam.com/lab/icons/flags/)<br/>
   - [Icons by Dev Icons](https://github.com/devicons/devicon/tree/master/icons)<br/>
   - [Other icons](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
-  - [Waka Stats](https://github.com/anmol098/waka-readme-stats)<br/>
   - [GitHub stats by](https://github.com/anuraghazra/github-readme-stats)<br/>
-  - [GitHub profile trophy](https://github.com/ryo-ma/github-profile-trophy)<br/>
-  - [🔥 GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-  - [GitHub view counter](https://github.com/antonkomarev/github-profile-views-counter)
-  - [GitHub typing svg](https://github.com/denvercoder1/readme-typing-svg)
-  - [Blog posts workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-  - [Ÿ HŸPE stats](https://yhype.me/)
 </details>
