@@ -14,22 +14,40 @@
 [twitterf]: https://twitter.com/intent/user?screen_name=Kutsatuta
 [youtubef]: http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1
 
-
-## Hi there, I'm Lord Clément 'Ttiki' Combier  👋
+## Hi there, I'm Lord Clément 'Ttiki' Combier  👋 [<img align="right" alt="Follow on github badge" target="_blank" src="https://github-badges-8b3300f052dd.herokuapp.com/github/followers/ttiki"/>][github]
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Ttiki/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ttiki/Ttiki/discussions/categories/q-a)
 ![Views counter](https://komarev.com/ghpvc/?username=ttiki&color=orange)
-[<img align="left" alt="Follow on github badge" target="_blank" src="https://img.shields.io/github/followers/ttiki?label=Follow%20me%21&style=social"/>][github]
+![GitHub Sponsors](https://github-badges-8b3300f052dd.herokuapp.com/github/sponsors/Ttiki)
+![GitHub Discussions](https://github-badges-8b3300f052dd.herokuapp.com/github/discussions/ttiki/Ttiki)
+![GitHub User's stars](https://github-badges-8b3300f052dd.herokuapp.com/github/stars/Ttiki)
+![Website](https://github-badges-8b3300f052dd.herokuapp.com/website?url=https%3A%2F%2Fttiki.github.io)
+![Steam Collection Files](https://github-badges-8b3300f052dd.herokuapp.com/steam/collection-files/770466073?label=Garry's%20Mod%20-%20Ttiki's%20maps)
+![Steam Views](https://github-badges-8b3300f052dd.herokuapp.com/steam/views/770466073)
+![Steam Favorites](https://github-badges-8b3300f052dd.herokuapp.com/steam/favorites/770466073)
+![Steam Subscriptions](https://github-badges-8b3300f052dd.herokuapp.com/steam/subscriptions/770466073?label=sub)
+![Steam Collection Files](https://github-badges-8b3300f052dd.herokuapp.com/steam/collection-files/1257101648?label=Portal%20-%20Ttiki's%20maps)
+![Steam Views](https://github-badges-8b3300f052dd.herokuapp.com/steam/views/1257101648)
+![Steam Favorites](https://github-badges-8b3300f052dd.herokuapp.com/steam/favorites/1257101648)
+![Steam Subscriptions](https://github-badges-8b3300f052dd.herokuapp.com/steam/subscriptions/1257101648?label=sub)
+
+
+
+
 <!--Global stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ttiki)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-ttiki.vercel.app/api?username=Ttiki)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <br/>
 
-📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.
-🌍🧳 Today, as an avid traveler 🧭🌴, I love to discover new places, cultures, and people. These experiences have given me a broader perspective on the world 🌎 and introduced me to inspiring individuals.
-💻🌅 I enjoy creating innovative multimedia projects 🎨, combining my passion for photography, cinema, and computer science. I am always looking for new challenges, creative projects that allow me to push my limits and expand my skills.
-🚀👨‍💻 My ambition is to continue to explore the world 🌟, discover new horizons, and advance technology for the benefit of others.
+📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.<br/>
+🌍🧳 Today, as an avid traveler 🧭🌴, I love to discover new places, cultures, and people. These experiences have given me a broader perspective on the world 🌎 and introduced me to inspiring individuals.<br/>
+💻🌅 I enjoy creating innovative multimedia projects 🎨, combining my passion for photography, cinema, and computer science. I am always looking for new challenges, creative projects that allow me to push my limits and expand my skills.<br/>
+🚀👨‍💻 My ambition is to continue to explore the world 🌟, discover new horizons, and advance technology for the benefit of others.<br/>
 
+<br/>
 **[➡️My gist !](https://gist.github.com/Ttiki)**
 <br/>
 
