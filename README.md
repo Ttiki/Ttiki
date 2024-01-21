@@ -38,7 +38,7 @@
 <!--Global stats-->
 [![Anurag's GitHub stats](https://github-stats-ttiki.vercel.app/api?username=Ttiki)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ttiki&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-ttiki.vercel.app/graph?username=Ttiki&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
