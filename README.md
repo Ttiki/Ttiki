@@ -32,26 +32,12 @@
 ![Steam Favorites](https://github-badges-8b3300f052dd.herokuapp.com/steam/favorites/1257101648)
 ![Steam Subscriptions](https://github-badges-8b3300f052dd.herokuapp.com/steam/subscriptions/1257101648?label=sub)
 
-
-
-
-<!--Global stats-->
-[![Anurag's GitHub stats](https://github-stats-ttiki.vercel.app/api?username=Ttiki)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-ttiki.vercel.app/graph?username=Ttiki&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
 📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.<br/>
 🌍🧳 Today, as an avid traveler 🧭🌴, I love to discover new places, cultures, and people. These experiences have given me a broader perspective on the world 🌎 and introduced me to inspiring individuals.<br/>
 💻🌅 I enjoy creating innovative multimedia projects 🎨, combining my passion for photography, cinema, and computer science. I am always looking for new challenges, creative projects that allow me to push my limits and expand my skills.<br/>
 🚀👨‍💻 My ambition is to continue to explore the world 🌟, discover new horizons, and advance technology for the benefit of others.<br/>
 
-<br/>
-
 **[➡️My gist !](https://gist.github.com/Ttiki)**
-
-<br/>
 
 ### My organizations
 I'v got three organizations on GitHub you can look at:<br/>
