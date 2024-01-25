@@ -237,7 +237,9 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--Y-->
   <!--Z-->
 </details>
+
 ---
+
 <details>
 <summary>© Copyright & credits</summary>
   - [Badges/Shields by Shields.io](https://shields.io/category/build)<br/>
