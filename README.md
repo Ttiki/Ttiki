@@ -237,17 +237,10 @@ This is a little list of languages, IDEs, APIs, SDKs, libraries and tools I use 
   <!--Y-->
   <!--Z-->
 </details>
-
-<br/>
-
 ---
-
 <details>
 <summary>© Copyright & credits</summary>
-  
   - [Badges/Shields by Shields.io](https://shields.io/category/build)<br/>
-  - [FAMFAMFAM Flags icons](http://www.famfamfam.com/lab/icons/flags/)<br/>
   - [Icons by Dev Icons](https://github.com/devicons/devicon/tree/master/icons)<br/>
   - [Other icons](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
-  - [GitHub stats by](https://github.com/anuraghazra/github-readme-stats)<br/>
 </details>
