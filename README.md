@@ -39,8 +39,6 @@
 
 **[➡️My gist !](https://gist.github.com/Ttiki)**
 
-![DevCardLife](./devcard.png)
-
 ### My organizations
 I'v got three organizations on GitHub you can look at:<br/>
 [@Linka](https://github.com/LinkaStudio) my studio organization Most repos are private, **however** I may publish some open source software and old games code from time to time.<br/>
