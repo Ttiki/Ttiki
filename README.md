@@ -15,7 +15,7 @@
 [youtubef]: http://www.youtube.com/channel/UCeIO_K2bJR7gakbmD8vsrgw?sub_confirmation=1
 
 ## Hi there, I'm Lord Clément 'Ttiki' Combier  👋 [<img align="right" alt="Follow on github badge" target="_blank" src="https://github-badges-8b3300f052dd.herokuapp.com/github/followers/ttiki"/>][github]
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+<!--[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ttiki/Ttiki/discussions/categories/q-a)
 ![Views counter](https://komarev.com/ghpvc/?username=ttiki&color=orange)
@@ -30,7 +30,7 @@
 ![Steam Collection Files](https://github-badges-8b3300f052dd.herokuapp.com/steam/collection-files/1257101648?label=Portal%20-%20Ttiki's%20maps)
 ![Steam Views](https://github-badges-8b3300f052dd.herokuapp.com/steam/views/1257101648)
 ![Steam Favorites](https://github-badges-8b3300f052dd.herokuapp.com/steam/favorites/1257101648)
-![Steam Subscriptions](https://github-badges-8b3300f052dd.herokuapp.com/steam/subscriptions/1257101648?label=sub)
+![Steam Subscriptions](https://github-badges-8b3300f052dd.herokuapp.com/steam/subscriptions/1257101648?label=sub)-->
 
 📷🎥💻 Passionate about photography and cinema since a young age, I grew up discovering my love for computer science. 💡 Since the age of 9, I have created my first computer systems and explored new programming languages to develop advanced systems.<br/>
 🌍🧳 Today, as an avid traveler 🧭🌴, I love to discover new places, cultures, and people. These experiences have given me a broader perspective on the world 🌎 and introduced me to inspiring individuals.<br/>
